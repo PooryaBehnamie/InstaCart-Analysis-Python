@@ -1,3 +1,5 @@
+# **![instacart-logo-color-6678cb82d531f8910d5ba270a11a7e9b56fc261371bda42ea7a5abeff3492e1c](https://github.com/PooryaBehnamie/InstaCart-Analysis-Python/assets/169101583/8024c949-c2fe-449e-a800-a07167c586f5)**
+
 # Instacart Sales Analysis and Customer Segmentation
 I worked with multiple datasets for Instacart using Python. I subsequently wrote a report outlining my analysis methodology, findings, and suggestions in response to important Instacart business queries.
 
@@ -21,7 +23,7 @@ The analysis utilized multiple open-source datasets from Instacart, including a 
 * **Instacart Data Sets**:
 [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 
-Instacart Online Grocery Shopping Dataset 2017 (Citation: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed via [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis))
+* **Instacart Online Grocery Shopping Dataset 2017**: (Citation: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed via [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis))
 
 ## Methodology
 The analysis followed a structured approach encompassing data cleaning, exploration, visualization, and recommendation stages. Python scripts were used for data cleaning, manipulation, and statistical analysis. Key steps included:
